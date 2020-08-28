@@ -20,4 +20,10 @@ public class Constants {
     public static final String REQUEST_INTERVAL = "request.interval";
     public static final String COMMUNITY = "community";
     public static final String OIDS = "oids";
+
+    public static final String ifInOctects = "1.3.6.1.2.1.2.2.1.10";
+    public static final String ifOutOctects = "1.3.6.1.2.1.2.2.1.16";
+    public static final String ifOutDiscards = "1.3.6.1.2.1.2.2.1.19";
+    public static final String ifInUcast = "1.3.6.1.2.1.2.2.1.11";
+    public static final String ifInNUcastPkts = "1.3.6.1.2.1.2.2.1.12";
 }
